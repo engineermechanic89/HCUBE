@@ -14,3 +14,9 @@ X and Y axis with 300mm linear rails.
 Oriented more to accuracy and stability than high speeds.
 
 Frame is designed that top and bottom plates, z platform, steppers and idlers brackets (except x axis beam) can be machined out of two 5x350x350mm Al alloy plates (except x axis beam and hotend plates) using waterjet, cnc router or similar, no bending.
+
+Check also:
+
+https://allmchanicalengineering.blogspot.com/
+
+https://www.youtube.com/channel/UCHv86HFIAYIiNjUIofk3kKg
